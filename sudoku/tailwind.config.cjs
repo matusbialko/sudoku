@@ -5,7 +5,14 @@ module.exports = {
     "./src/**/*.{js,ts,jsx,tsx,vue}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      width: {
+        '1/9': '11.11111111111111%',
+      },
+      height: {
+        '1/9': '11.11111111111111%',
+      }
+  },
   },
   plugins: [],
 }

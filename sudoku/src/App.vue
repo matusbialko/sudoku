@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-row justify-center items-center w-screen h-screen bg-neutral-800 text-white">
+  <div class="flex flex-row justify-center items-center w-screen h-screen bg-neutral-800">
     <Sudoku />
   </div>
 </template>
